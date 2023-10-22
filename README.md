@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am Somklorios🌟 💀
 
 I am passionate about continuous learning, the pursuit of innovation, problem solving and data-driven decision making. I combine my experience in the Pharmaceutical industry with Quality and Synthesis and the use of data analytics such as Python, SQL, Excel and Power BI programming to tackle challenges creatively has allowed me to translate data into actionable knowledge to drive the success of new projects.
 
