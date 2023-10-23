@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ** Cairo, Solidity, Rust **
 - 💬 Ask me about  ** Python, SQL, Blockchain, Cyber Security ** 
 - 📫 How to reach me: ** sergioa.juarezp@protonmail.com **
+- ⚡ Fun fact: I'm also a Photografy and cyberpunk style
 
 <div align="center">
     <h3> Lenguages and Tools : </h3>
