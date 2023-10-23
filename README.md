@@ -20,7 +20,21 @@ Here are some ideas to get you started:
 - 💬 Ask me about  ** Python, SQL, Blockchain, Cyber Security ** 
 - 📫 How to reach me: ** sergioa.juarezp@protonmail.com **
 
+<div align="center">
+    <h3> Lenguages and Tools : </h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Solidity" alt="Solidity" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Solidity" alt="Solidity" width="40" height="40">&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Solidity" alt="Solidity" width="40" height="40">&nbsp;
+    </div>
 
+</div>
+
+<!--
+
+---
 <!--
 ABOUT ME
 Here are some ideas to get you started:
