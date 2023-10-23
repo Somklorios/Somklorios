@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://imgur.com/xaKJwIs" alt="Portada" width="200">
+    <img src="https://imgur.com/a/Cph9eIi"  alt="Portada" width="200">
     <h1 align="center"> Hi there I am Somklorios 🌟 💀</h1>
     <h3 align="center">I am passionate about continuous learning, the pursuit of innovation, problem solving and data-driven decision making. I combine my experience in the Pharmaceutical industry with Quality and Synthesis and the use of data analytics such as Python, SQL, Excel and Power BI programming to tackle challenges creatively has allowed me to translate data into actionable knowledge to drive the success of new projects.
 </h3>
